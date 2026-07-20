@@ -1,1 +1,2 @@
 this is first line  in d.txt
+this is second line in d.txt
